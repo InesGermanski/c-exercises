@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*creating a new array taking the first
+ and last elements of a given array of integers*/
+
 int main()
 {
     int n;
